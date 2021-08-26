@@ -5,7 +5,7 @@ This is the tensorflow implementation for the paper "Generating Expensive Relati
 python version: python-3.5;  cuda version: cuda-10;  tensorflow version: tensorflow-1.13
 
 ## Datasets
-Directly download processed VG features: [Dataset](https://drive.google.com/file/d/1fA7Qt7zkVtLnZv9Hmh2OHjz6V1HpXMin/view?usp=sharing), unzip and put it in the root directory.
+Directly download processed VG features: [Dataset](https://pan.baidu.com/s/1_LMmjRlvqGzKCD95Pj5aSg)(code:ueef), unzip and put it in the root directory.
 
 ## Evaluate the models
 Our pre-trained models can be downloded here: [Models](https://drive.google.com/open?id=11Np9o5dOnxIS1uT-ibyRRHpc9WOXK8xc), unzip and put them in the root directory.  
